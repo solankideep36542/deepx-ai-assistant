@@ -1,0 +1,6 @@
+{
+  "name": "DeepX AI - All-Purpose Intelligent Assistant",
+  "description": "A capable, friendly, all-purpose AI assistant that understands your needs, creates content, analyzes information, and operates connected website tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
